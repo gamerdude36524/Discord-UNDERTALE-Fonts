@@ -4,7 +4,7 @@
     "previewText": "Comic Sans is a fun typeface that embodies the spirit of informality.",
     "main": {
         "ABCGintoNord-ExtraBold": "",
-        "ggsans-Bold": "",
+        "ggsans-Bold": "https://github.com/gamerdude36524/Discord-Revenge-Fonts/raw/refs/heads/main/ComicSans/ComicSansMS-Bold.ttf",
         "ggsans-BoldItalic": "",
         "ggsans-ExtraBold": "",
         "ggsans-ExtraBoldItalic": "",
@@ -14,7 +14,7 @@
         "ggsans-NormalItalic": "https://github.com/gamerdude36524/Discord-Revenge-Fonts/raw/refs/heads/main/ComicSans/ComicSansMS-Italic.ttf",
         "ggsans-Semibold": "",
         "ggsans-SemiboldItalic": "",
-        "NotoSans-Bold": "",
+        "NotoSans-Bold": "https://github.com/gamerdude36524/Discord-Revenge-Fonts/raw/refs/heads/main/ComicSans/ComicSansMS-Bold.ttf",
         "NotoSans-ExtraBold": "",
         "NotoSans-Medium": "",
         "NotoSans-Normal": "https://github.com/gamerdude36524/Discord-Revenge-Fonts/raw/refs/heads/main/ComicSans/ComicSansMS.ttf",
