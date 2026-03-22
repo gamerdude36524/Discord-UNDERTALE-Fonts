@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Comic Sans",
+    "previewText": "Comic Sans is a fun typeface that embodies the spirit of informality.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "",
+        "ggsans-Bold": "",
+        "ggsans-BoldItalic": "",
+        "ggsans-ExtraBold": "",
+        "ggsans-ExtraBoldItalic": "",
+        "ggsans-Medium": "",
+        "ggsans-MediumItalic": "",
+        "ggsans-Normal": "",
+        "ggsans-NormalItalic": "",
+        "ggsans-Semibold": "",
+        "ggsans-SemiboldItalic": "",
+        "NotoSans-Bold": "",
+        "NotoSans-ExtraBold": "",
+        "NotoSans-Medium": "",
+        "NotoSans-Normal": "",
+        "NotoSans-NormalItalic": "",
+        "NotoSans-Semibold": "",
+        "ggmono-Normal": ""
+    }
+}
