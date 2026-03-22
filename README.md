@@ -1,4 +1,4 @@
-# Discord UNDERTALE Fonts
+# Discord Revenge Fonts
 A collection of fonts for Revenge.
 
 Font links are below.
