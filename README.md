@@ -1,5 +1,5 @@
 # Discord UNDERTALE Fonts
-A collection of UNDERTALE / DELTARUNE fonts for Revenge.
+A collection of fonts for Revenge.
 
 Original fonts made by [Haley Wakamatsu on Behance](https://behance.net/JapanYoshi), links are below.
 
