@@ -4,7 +4,7 @@
     "previewText": "frutiger aero font",
     "main": {
         "ABCGintoNord-ExtraBold": "",
-        "ggsans-Bold": "",
+        "ggsans-Bold": "https://github.com/gamerdude36524/Discord-Revenge-Fonts/raw/refs/heads/main/Frutiger/FrutigerLTStd-Bold.ttf",
         "ggsans-BoldItalic": "",
         "ggsans-ExtraBold": "",
         "ggsans-ExtraBoldItalic": "",
@@ -14,7 +14,7 @@
         "ggsans-NormalItalic": "https://github.com/gamerdude36524/Discord-Revenge-Fonts/raw/refs/heads/main/Frutiger/FrutigerLTStd-Italic.ttf",
         "ggsans-Semibold": "",
         "ggsans-SemiboldItalic": "",
-        "NotoSans-Bold": "",
+        "NotoSans-Bold": "https://github.com/gamerdude36524/Discord-Revenge-Fonts/raw/refs/heads/main/Frutiger/FrutigerLTStd-Bold.ttf",
         "NotoSans-ExtraBold": "",
         "NotoSans-Medium": "",
         "NotoSans-Normal": "https://github.com/gamerdude36524/Discord-Revenge-Fonts/raw/refs/heads/main/Frutiger/FrutigerLTStd-Roman.ttf",
